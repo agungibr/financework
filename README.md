@@ -5,6 +5,15 @@ Financeworks is an application to record the income and expenses made by the use
 * Kotlin
 * Firebase
 * NoSQL
+
+## Features
+* Splash screen
+* Sign in
+* Sign up
+* Home
+* Add
+* Edit
+* Delete
   
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
